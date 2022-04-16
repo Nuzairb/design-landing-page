@@ -1,0 +1,28 @@
+[
+    {
+        "name": "John Doe",
+        "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim",
+        "avatar": "/assets/avatar-1.png",
+        "active": true
+    },
+    {
+        "name": "John Doe",
+        "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim",
+        "avatar": "/assets/avatar-2.jpg"
+    },
+    {
+        "name": "John Doe",
+        "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim",
+        "avatar": "/assets/avatar-3.png"
+    },
+    {
+        "name": "John Doe",
+        "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim",
+        "avatar": "/assets/avatar-4.png"
+    },
+    {
+        "name": "John Doe",
+        "content": "Vel eget eu vestibulum mauris et ut hendrerit aliquam vel nibh amet, vitae at purus dui semper vel facilisis enim",
+        "avatar": "/assets/avatar-5.jpg"
+    }
+]
